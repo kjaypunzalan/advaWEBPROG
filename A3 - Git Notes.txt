@@ -1,0 +1,27 @@
+1. Create Repository --- go to github and create repo
+
+2. Create branch --- on the "code> section, create branch
+
+3. Clone Repo --- git clone
+
+4. Put/create files --- create any file
+
+5. Status, add, commit, push
+---git status
+---git add .
+---git commit -m "<comment>"
+---git push
+
+6. Change branch --- git checkout <branch_name>
+
+7. Create/edit file in your local machine --- add/edit any file
+
+8. Status, add, commit, push
+---git status
+---git add .
+---git commit -m "<comment>"
+---git push 
+
+9. Pull request --- go to githu and pull request
+
+10. Merge --- merge branches
