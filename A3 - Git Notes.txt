@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1. Create Repository --- go to github and create repo
 
 2. Create branch --- on the "code> section, create branch
@@ -22,6 +23,27 @@
 ---git commit -m "<comment>"
 ---git push 
 
-9. Pull request --- go to githu and pull request
+9. Pull request --- go to githu and pull requests
 
 10. Merge --- merge branches
+=======
+1. Create Repository
+
+2. Create branch
+
+3. Clone Repo
+
+4. Put/create files
+
+5. Status, add, commit, push
+
+6. Change branch
+
+7. Create/edit file in your local machine
+
+8. Status, add, commit, push
+
+9. Pull request
+
+10. Merge
+>>>>>>> e283c4e09aa1c014a4c119e5ecd8907987e21725
